@@ -4,7 +4,9 @@
         "Backtester",
         "backtesting",
         "cumsum",
+        "drawdowns",
         "iterrows",
+        "Lookback",
         "ndarray",
         "xlabel",
         "ylabel"
